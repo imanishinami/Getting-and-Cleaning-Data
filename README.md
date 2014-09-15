@@ -34,3 +34,4 @@ Step 6: Export data into "ResultData.txt" <BR>
 <BR>
 
 What the analysis file did<BR><BR>
+It generate average of every features for each activity and subject pair.
