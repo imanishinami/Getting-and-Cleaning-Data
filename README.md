@@ -18,7 +18,8 @@ Step 3: Uses descriptive activity names to name the activities in the data set<B
 <BR>
 Step 4: Appropriately labels the data set with descriptive variable names. <BR>
         Refer to features_info.txt<BR>
-        e.g.  Acc --> Acceleration<BR>
+        e.g.  <BR>
+              Acc --> Acceleration<BR>
               Mag --> Magnitude<BR>
               Gyro -->  Gyroscope<BR>
               prefix 't' --> Time Domain<BR>
