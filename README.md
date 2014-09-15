@@ -1,6 +1,8 @@
 Getting-and-Cleaning-Data
 =========================
 
+Process of the script<BR><BR>
+
 Preparation Step 0: <BR>
 -Use plyr libary to use ddply <BR>
 -read training data<BR>
@@ -30,3 +32,5 @@ with the average of each variable for each activity and each subject.<BR>
 <BR>
 Step 6: Export data into "ResultData.txt" <BR>
 <BR>
+
+What the analysis file did<BR><BR>
